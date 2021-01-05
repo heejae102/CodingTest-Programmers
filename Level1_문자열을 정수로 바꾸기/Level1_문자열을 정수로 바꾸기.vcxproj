@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}</ProjectGuid>
-    <RootNamespace>Level1문자열다루기기본</RootNamespace>
+    <ProjectGuid>{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}</ProjectGuid>
+    <RootNamespace>Level1문자열을정수로바꾸기</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

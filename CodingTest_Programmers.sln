@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level1", "Level1", "{F8FF16
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_두 정수 사이의 합", "Level1_두 정수 사이의 합\Level1_두 정수 사이의 합.vcxproj", "{B70CAF70-7709-4208-A4FA-C92233212E70}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_문자열 다루기 기본", "Level1_문자열 다루기 기본\Level1_문자열 다루기 기본.vcxproj", "{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_문자열을 정수로 바꾸기", "Level1_문자열을 정수로 바꾸기\Level1_문자열을 정수로 바꾸기.vcxproj", "{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,12 +37,30 @@ Global
 		{B70CAF70-7709-4208-A4FA-C92233212E70}.Release|x64.Build.0 = Release|x64
 		{B70CAF70-7709-4208-A4FA-C92233212E70}.Release|x86.ActiveCfg = Release|Win32
 		{B70CAF70-7709-4208-A4FA-C92233212E70}.Release|x86.Build.0 = Release|Win32
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Debug|x64.ActiveCfg = Debug|x64
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Debug|x64.Build.0 = Debug|x64
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Debug|x86.Build.0 = Debug|Win32
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Release|x64.ActiveCfg = Release|x64
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Release|x64.Build.0 = Release|x64
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Release|x86.ActiveCfg = Release|Win32
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B}.Release|x86.Build.0 = Release|Win32
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Debug|x64.ActiveCfg = Debug|x64
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Debug|x64.Build.0 = Debug|x64
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Debug|x86.Build.0 = Debug|Win32
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Release|x64.ActiveCfg = Release|x64
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Release|x64.Build.0 = Release|x64
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Release|x86.ActiveCfg = Release|Win32
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B70CAF70-7709-4208-A4FA-C92233212E70} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
+		{B9D8AC02-E64D-42E6-8311-1C9C73CBC26B} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
+		{0D66F4FB-372E-42F4-8269-04E18FF7D8AC} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {410E7A7A-1A63-40F7-9B37-56911B2A0CA6}
