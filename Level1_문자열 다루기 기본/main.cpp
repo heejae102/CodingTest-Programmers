@@ -12,8 +12,9 @@ using namespace std;
 
 제한 사항
 s는 길이 1 이상, 길이 8 이하인 문자열입니다.
+
 입출력 예
-s	return
+s		return
 a234	false
 1234	true
 

@@ -31,7 +31,6 @@ str은 부호(+,-)와 숫자로만 구성되어 있고, 잘못된 값이 입력되는 경우는 없습니다.
 string str="abcdefghijklmnop";
 str.substr(startIndex, many);
 
-
 예를 들어 str.substr(2,4)라면, "cdef"를 복사.
 many 영역 없이 str.substr(startIndex)로 사용한다면, startIndex 지점부터 문자열 끝까지 복사.
 
