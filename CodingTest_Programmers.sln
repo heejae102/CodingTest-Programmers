@@ -25,6 +25,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_수박수박수박�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_평균 구하기", "Level1_평균 구하기\Level1_평균 구하기.vcxproj", "{9C888E48-D21F-483D-AE31-8DA01E5E9B94}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_문자열 내 p와 y의 개수", "Level1_문자열 내 p와 y의 개수\Level1_문자열 내 p와 y의 개수.vcxproj", "{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_나누어 떨어지는 숫자 배열", "Level1_나누어 떨어지는 숫자 배열\Level1_나누어 떨어지는 숫자 배열.vcxproj", "{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_문자열 내림차순으로 배치하기", "Level1_문자열 내림차순으로 배치하기\Level1_문자열 내림차순으로 배치하기.vcxproj", "{A06E2825-E75B-4723-BF28-4DBEAC597D77}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_정수 내림차순으로 배치하기", "Level1_정수 내림차순으로 배치하기\Level1_정수 내림차순으로 배치하기.vcxproj", "{2178A250-3F6E-4F10-B0A3-8391E9331EA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -113,6 +121,38 @@ Global
 		{9C888E48-D21F-483D-AE31-8DA01E5E9B94}.Release|x64.Build.0 = Release|x64
 		{9C888E48-D21F-483D-AE31-8DA01E5E9B94}.Release|x86.ActiveCfg = Release|Win32
 		{9C888E48-D21F-483D-AE31-8DA01E5E9B94}.Release|x86.Build.0 = Release|Win32
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Debug|x64.ActiveCfg = Debug|x64
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Debug|x64.Build.0 = Debug|x64
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Debug|x86.Build.0 = Debug|Win32
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Release|x64.ActiveCfg = Release|x64
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Release|x64.Build.0 = Release|x64
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Release|x86.ActiveCfg = Release|Win32
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4}.Release|x86.Build.0 = Release|Win32
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Debug|x64.ActiveCfg = Debug|x64
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Debug|x64.Build.0 = Debug|x64
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Debug|x86.Build.0 = Debug|Win32
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Release|x64.ActiveCfg = Release|x64
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Release|x64.Build.0 = Release|x64
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Release|x86.ActiveCfg = Release|Win32
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477}.Release|x86.Build.0 = Release|Win32
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Debug|x64.ActiveCfg = Debug|x64
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Debug|x64.Build.0 = Debug|x64
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Debug|x86.ActiveCfg = Debug|Win32
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Debug|x86.Build.0 = Debug|Win32
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Release|x64.ActiveCfg = Release|x64
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Release|x64.Build.0 = Release|x64
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Release|x86.ActiveCfg = Release|Win32
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77}.Release|x86.Build.0 = Release|Win32
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Debug|x64.ActiveCfg = Debug|x64
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Debug|x64.Build.0 = Debug|x64
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Debug|x86.Build.0 = Debug|Win32
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Release|x64.ActiveCfg = Release|x64
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Release|x64.Build.0 = Release|x64
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Release|x86.ActiveCfg = Release|Win32
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +167,10 @@ Global
 		{B2A105AC-57B4-4879-81D5-E2FEA2E3E9A1} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
 		{75CF5969-994E-45F5-BF4A-3C8E5F4975C9} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
 		{9C888E48-D21F-483D-AE31-8DA01E5E9B94} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
+		{C40A396C-A2E9-44BD-8E12-C2FB03AD18D4} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
+		{CB4EEC69-0150-4D7B-8F0B-6E177BE12477} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
+		{A06E2825-E75B-4723-BF28-4DBEAC597D77} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
+		{2178A250-3F6E-4F10-B0A3-8391E9331EA4} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {410E7A7A-1A63-40F7-9B37-56911B2A0CA6}
