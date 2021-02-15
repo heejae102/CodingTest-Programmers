@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_정수 제곱근 판
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_행렬의 덧셈", "Level1_행렬의 덧셈\Level1_행렬의 덧셈.vcxproj", "{CEF7BA7C-F716-43B3-94FB-6596983B41E9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level1_최대공약수와 최소공배수", "Level1_최대공약수와 최소공배수\Level1_최대공약수와 최소공배수.vcxproj", "{F2CC26A3-A718-4E06-971C-A86964C2CE2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -263,6 +265,14 @@ Global
 		{CEF7BA7C-F716-43B3-94FB-6596983B41E9}.Release|x64.Build.0 = Release|x64
 		{CEF7BA7C-F716-43B3-94FB-6596983B41E9}.Release|x86.ActiveCfg = Release|Win32
 		{CEF7BA7C-F716-43B3-94FB-6596983B41E9}.Release|x86.Build.0 = Release|Win32
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Debug|x64.ActiveCfg = Debug|x64
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Debug|x64.Build.0 = Debug|x64
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Debug|x86.Build.0 = Debug|Win32
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Release|x64.ActiveCfg = Release|x64
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Release|x64.Build.0 = Release|x64
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Release|x86.ActiveCfg = Release|Win32
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -292,6 +302,7 @@ Global
 		{B2C2B800-B1D9-4981-9C93-26A37AC9E76D} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
 		{3BAD621C-7AFB-4EBB-9911-810AD5041004} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
 		{CEF7BA7C-F716-43B3-94FB-6596983B41E9} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
+		{F2CC26A3-A718-4E06-971C-A86964C2CE2E} = {F8FF1661-AACA-45A7-9017-81160AE47CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {410E7A7A-1A63-40F7-9B37-56911B2A0CA6}
